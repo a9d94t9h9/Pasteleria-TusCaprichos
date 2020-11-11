@@ -1,0 +1,26 @@
+.img-logo-nav {
+    width: 14rem;
+    height: 6rem;
+}
+
+
+
+.text-muted {
+    font-size: 2rem;
+    text-align: center;
+}
+
+
+.ubicacion-local {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    Display: flex; 
+}
+
+
+
+.boton-enlace  #boton-social-media  {
+    font-size: 160%;
+}
+
