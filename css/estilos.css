@@ -1,9 +1,12 @@
+
+/* en algunos dispositivos se ve corrido todo para la izquierda y deja un margen, intenté pero no supe como arreglarlo*/
+
+
+
 .img-logo-nav {
     width: 14rem;
     height: 6rem;
 }
-
-
 
 .text-muted {
     font-size: 2rem;
